@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "The Whispering Shadows",
+      "coverImage": "https://example.com/images/whispering_shadows.jpg",
+      "blurb": "In a world where shadows hold secrets, a young woman discovers her family's dark past and the power she possesses to change it."
+    },
+    {
+      "title": "Echoes of the Forgotten",
+      "coverImage": "https://example.com/images/echoes_of_the_forgotten.jpg",
+      "blurb": "A gripping tale of love and loss, where the echoes of the past shape the future of two intertwined lives."
+    },
+    {
+      "title": "Beneath the Surface",
+      "coverImage": "https://example.com/images/beneath_the_surface.jpg",
+      "blurb": "A thrilling exploration of the depths of the ocean and the mysteries that lie beneath, challenging the boundaries of human understanding."
+    },
+    {
+      "title": "The Last Light",
+      "coverImage": "https://example.com/images/the_last_light.jpg",
+      "blurb": "In a dystopian future, a group of survivors must navigate a world devoid of sunlight, uncovering the truth behind the catastrophe that changed everything."
+    }
+  ]
+}
